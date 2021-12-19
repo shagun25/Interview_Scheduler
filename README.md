@@ -1,4 +1,4 @@
-# To-Do-List
+# Interview Scheduler
 
 ## SET UP
 
